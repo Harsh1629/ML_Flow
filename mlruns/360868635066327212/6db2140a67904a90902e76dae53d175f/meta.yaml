@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/6db2140a67904a90902e76dae53d175f/artifacts
+end_time: 1711653894270
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 6db2140a67904a90902e76dae53d175f
+run_name: Random_Forest_run
+run_uuid: 6db2140a67904a90902e76dae53d175f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653631680
+status: 3
+tags: []
+user_id: Harsh

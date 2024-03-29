@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/48b0c67d6482476591fd2d015ff604f8/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 48b0c67d6482476591fd2d015ff604f8
+run_name: nosy-boar-904
+run_uuid: 48b0c67d6482476591fd2d015ff604f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

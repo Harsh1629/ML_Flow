@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711687695831
+current_stage: None
+description: ''
+last_updated_timestamp: 1711687695831
+name: Sentiment_analysis_models
+run_id: 7f910c7ce1864ad8944a4efb9b655bb5
+run_link: ''
+source: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/7f910c7ce1864ad8944a4efb9b655bb5/artifacts/best_estimator
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/7f910c7ce1864ad8944a4efb9b655bb5/artifacts/best_estimator
+user_id: null
+version: 2

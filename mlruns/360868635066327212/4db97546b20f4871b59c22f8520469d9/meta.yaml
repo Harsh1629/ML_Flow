@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/4db97546b20f4871b59c22f8520469d9/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 4db97546b20f4871b59c22f8520469d9
+run_name: delicate-sloth-442
+run_uuid: 4db97546b20f4871b59c22f8520469d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

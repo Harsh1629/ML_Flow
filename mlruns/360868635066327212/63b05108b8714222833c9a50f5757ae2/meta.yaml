@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/63b05108b8714222833c9a50f5757ae2/artifacts
+end_time: 1711653906474
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 63b05108b8714222833c9a50f5757ae2
+run_name: painted-ox-658
+run_uuid: 63b05108b8714222833c9a50f5757ae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653894977
+status: 3
+tags: []
+user_id: Harsh

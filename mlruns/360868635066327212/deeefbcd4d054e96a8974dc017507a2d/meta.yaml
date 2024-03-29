@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/deeefbcd4d054e96a8974dc017507a2d/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: deeefbcd4d054e96a8974dc017507a2d
+run_name: fortunate-hen-525
+run_uuid: deeefbcd4d054e96a8974dc017507a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

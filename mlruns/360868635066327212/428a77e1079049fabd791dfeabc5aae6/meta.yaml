@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/428a77e1079049fabd791dfeabc5aae6/artifacts
+end_time: 1711653914822
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 428a77e1079049fabd791dfeabc5aae6
+run_name: resilient-mole-41
+run_uuid: 428a77e1079049fabd791dfeabc5aae6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653907068
+status: 3
+tags: []
+user_id: Harsh

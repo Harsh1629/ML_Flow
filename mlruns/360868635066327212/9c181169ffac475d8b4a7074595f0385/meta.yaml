@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/9c181169ffac475d8b4a7074595f0385/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 9c181169ffac475d8b4a7074595f0385
+run_name: bright-mouse-928
+run_uuid: 9c181169ffac475d8b4a7074595f0385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

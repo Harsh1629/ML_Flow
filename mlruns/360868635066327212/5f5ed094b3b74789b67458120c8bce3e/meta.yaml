@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/5f5ed094b3b74789b67458120c8bce3e/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 5f5ed094b3b74789b67458120c8bce3e
+run_name: wistful-quail-883
+run_uuid: 5f5ed094b3b74789b67458120c8bce3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/d6277ca0a80348809022a75e09d1a3b3/artifacts
+end_time: 1711653412811
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: d6277ca0a80348809022a75e09d1a3b3
+run_name: omniscient-midge-973
+run_uuid: d6277ca0a80348809022a75e09d1a3b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653148482
+status: 3
+tags: []
+user_id: Harsh

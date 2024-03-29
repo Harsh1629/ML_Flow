@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/abd038e8bc274b549e96bd50ad663424/artifacts
+end_time: 1711653412811
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: abd038e8bc274b549e96bd50ad663424
+run_name: loud-lark-365
+run_uuid: abd038e8bc274b549e96bd50ad663424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653148482
+status: 3
+tags: []
+user_id: Harsh

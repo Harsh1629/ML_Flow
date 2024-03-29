@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/fbd844049c914b8bbfb36976ca649498/artifacts
+end_time: 1711653630190
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: fbd844049c914b8bbfb36976ca649498
+run_name: bald-steed-425
+run_uuid: fbd844049c914b8bbfb36976ca649498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653417403
+status: 3
+tags: []
+user_id: Harsh

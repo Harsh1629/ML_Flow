@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/9d2b120f679546f88f8e11708e692dc4/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 9d2b120f679546f88f8e11708e692dc4
+run_name: likeable-donkey-720
+run_uuid: 9d2b120f679546f88f8e11708e692dc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

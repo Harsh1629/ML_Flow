@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/5f7bb5a3b6ae4582b1f067b2a51d01a7/artifacts
+end_time: 1711653412811
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 5f7bb5a3b6ae4582b1f067b2a51d01a7
+run_name: delightful-squid-877
+run_uuid: 5f7bb5a3b6ae4582b1f067b2a51d01a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653148482
+status: 3
+tags: []
+user_id: Harsh

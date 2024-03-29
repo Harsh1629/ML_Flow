@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/c3f60a3ebaac4c0dbcfdf7d6db34c50e/artifacts
+end_time: 1711653906880
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: c3f60a3ebaac4c0dbcfdf7d6db34c50e
+run_name: Decision_Tree_run
+run_uuid: c3f60a3ebaac4c0dbcfdf7d6db34c50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653894977
+status: 3
+tags: []
+user_id: Harsh

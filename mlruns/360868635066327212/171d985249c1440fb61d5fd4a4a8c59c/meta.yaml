@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/171d985249c1440fb61d5fd4a4a8c59c/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 171d985249c1440fb61d5fd4a4a8c59c
+run_name: loud-shrike-92
+run_uuid: 171d985249c1440fb61d5fd4a4a8c59c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

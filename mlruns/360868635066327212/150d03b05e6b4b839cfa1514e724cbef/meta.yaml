@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/150d03b05e6b4b839cfa1514e724cbef/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 150d03b05e6b4b839cfa1514e724cbef
+run_name: enthused-goose-438
+run_uuid: 150d03b05e6b4b839cfa1514e724cbef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

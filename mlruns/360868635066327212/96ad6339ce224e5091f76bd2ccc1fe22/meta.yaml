@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/96ad6339ce224e5091f76bd2ccc1fe22/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 96ad6339ce224e5091f76bd2ccc1fe22
+run_name: whimsical-trout-934
+run_uuid: 96ad6339ce224e5091f76bd2ccc1fe22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

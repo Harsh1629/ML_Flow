@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/4ef936d89de64249b7595eb055aaf63f/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 4ef936d89de64249b7595eb055aaf63f
+run_name: secretive-snake-412
+run_uuid: 4ef936d89de64249b7595eb055aaf63f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/93b50158b7a6458ea89fb17381be17e2/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 93b50158b7a6458ea89fb17381be17e2
+run_name: carefree-donkey-672
+run_uuid: 93b50158b7a6458ea89fb17381be17e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

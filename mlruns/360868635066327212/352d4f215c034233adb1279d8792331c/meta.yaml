@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/352d4f215c034233adb1279d8792331c/artifacts
+end_time: 1711653630190
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: 352d4f215c034233adb1279d8792331c
+run_name: funny-flea-193
+run_uuid: 352d4f215c034233adb1279d8792331c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653417403
+status: 3
+tags: []
+user_id: Harsh

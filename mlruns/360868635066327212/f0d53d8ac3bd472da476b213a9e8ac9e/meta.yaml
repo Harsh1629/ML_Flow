@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/f0d53d8ac3bd472da476b213a9e8ac9e/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: f0d53d8ac3bd472da476b213a9e8ac9e
+run_name: dapper-whale-788
+run_uuid: f0d53d8ac3bd472da476b213a9e8ac9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

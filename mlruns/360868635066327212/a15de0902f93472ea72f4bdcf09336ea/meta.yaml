@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/a15de0902f93472ea72f4bdcf09336ea/artifacts
+end_time: 1711653893895
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: a15de0902f93472ea72f4bdcf09336ea
+run_name: capricious-cub-476
+run_uuid: a15de0902f93472ea72f4bdcf09336ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653631680
+status: 3
+tags: []
+user_id: Harsh

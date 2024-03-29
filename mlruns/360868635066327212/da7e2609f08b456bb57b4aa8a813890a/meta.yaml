@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/da7e2609f08b456bb57b4aa8a813890a/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: da7e2609f08b456bb57b4aa8a813890a
+run_name: angry-wolf-706
+run_uuid: da7e2609f08b456bb57b4aa8a813890a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh

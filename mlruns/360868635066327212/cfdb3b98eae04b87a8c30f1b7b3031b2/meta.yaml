@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/cfdb3b98eae04b87a8c30f1b7b3031b2/artifacts
+end_time: 1711653906474
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: cfdb3b98eae04b87a8c30f1b7b3031b2
+run_name: stately-horse-10
+run_uuid: cfdb3b98eae04b87a8c30f1b7b3031b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711653894977
+status: 3
+tags: []
+user_id: Harsh

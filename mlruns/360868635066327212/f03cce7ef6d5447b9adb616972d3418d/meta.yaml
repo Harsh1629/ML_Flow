@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/AI-ML/Innomatics/MLOps/mlruns/360868635066327212/f03cce7ef6d5447b9adb616972d3418d/artifacts
+end_time: 1711653143685
+entry_point_name: ''
+experiment_id: '360868635066327212'
+lifecycle_stage: active
+run_id: f03cce7ef6d5447b9adb616972d3418d
+run_name: invincible-elk-67
+run_uuid: f03cce7ef6d5447b9adb616972d3418d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711652766655
+status: 3
+tags: []
+user_id: Harsh
