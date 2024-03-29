@@ -8,6 +8,10 @@
 - Model Pipeline
 - MLflow for experiment tracking and model management
 
+## 👀 Screenshots
+
+![image](https://raw.githubusercontent.com/Harsh1629/Assets/main/Models_logged.png)
+
 ## ✍ Author
 
 - [Harsh Raj Gupta](https://github.com/Harsh1629)
